@@ -23,6 +23,5 @@ target
 logs
 *.iml
 .idea
-tmp
 scenarios
 actions
