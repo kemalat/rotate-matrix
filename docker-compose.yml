@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  rotate-matrix:
+    build: .
+    image: rotate-matrix:v1

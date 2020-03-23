@@ -1,0 +1,20 @@
+spring:
+  main:
+    web-application-type: none
+  application:
+    name: rotate-matrix
+
+config:
+  inputDirectory: ./tmp/
+  delayInMilis : 1000
+
+logging:
+  pattern:
+    console: "%d %-5level [%thread] %logger{0} : %msg%n"
+    file: "%d %-5level [%thread] %logger : %msg%n"
+  level:
+    org.springframework: INFO
+    task: INFO
+  file:
+    name: logs/dev_app.log
+
