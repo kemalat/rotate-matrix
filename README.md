@@ -64,7 +64,7 @@ Reference directory structure
 
 ```bash
 $ ls
-rotate-matrix-1.0.0		tmp
+rotate-matrix-1.0.0.jar		tmp
 ```
 ### input file(e.g. array.in) 
 
